@@ -2,12 +2,15 @@
 title: Kinsta - Deno + Lume
 ---
 
-# Welcome to my website
+# Welcome to My Beautiful Markdown Page
 
-This is my first page using **Lume,**
-a static site generator for Deno.
+This is a simple example of a beautiful Markdown page created using Deno and Lume. You can use this template as a starting point for your own static site.
 
-I hope you enjoy it.
+## Features
+
+- Easy-to-use Markdown formatting
+- Customizable HTML and CSS styling
+- Fast and efficient static site generation with Deno and Lume
 
 Here are the sub pages of this template:
 
